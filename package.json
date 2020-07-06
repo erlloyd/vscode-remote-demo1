@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/erlloyd/vscode-remote-demo1#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "give-me-a-joke": "^0.3.2"
   }
 }
